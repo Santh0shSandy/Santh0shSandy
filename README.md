@@ -8,6 +8,8 @@ I AM INTERESTED IN JAVA
 * ✉️  You can contact me at [lovelysandy008@gmail.com](mailto:lovelysandy008@gmail.com)
 * 🧠  I'm learning Java,C++
 
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9nFdqMGVqS20ZN00kkpNVoJBw-xXZ_7igA&usqp=CAU">
+
 ### Skills
 
 <p align="left">
